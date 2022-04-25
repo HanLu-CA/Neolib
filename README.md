@@ -1,3 +1,2 @@
 # Neolib
 
-# By Han Lu
